@@ -15,7 +15,3 @@ div.project-bg {
     background-size: 650px auto;
     background-repeat: no-repeat;
 }
-
-div.project-bg:hover {
-    transition: all 0.3s ease-in-out;
-}
